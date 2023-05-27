@@ -16,3 +16,5 @@ For now, you can install it from the source code. Make sure you have Go installe
 ```bash
 go install github.com/nguyendhst/copyfile@latest
 ```
+
+*FYI I stole the whole filepicker component from the lib and modded it.*
